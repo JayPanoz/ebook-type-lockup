@@ -36,7 +36,7 @@ Don’t care if you’re using CSS or SVG attributes, just do it then do it bett
 
 ![Boilerplate with grid](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/boilerplate.png)
 
-![Quote](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/fuckit.png)
+![Quote](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/fuckIt.png)
 
 ![Part’s page](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/stars.png)
 
