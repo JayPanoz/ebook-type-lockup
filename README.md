@@ -10,6 +10,8 @@ You can achieve graphic pages with SVG and keep them (kinda) accessible e.g. tex
 
 CSS-Tricks kickstarted my love for SVG, and [this article explains what is a type lockup](https://css-tricks.com/creating-web-type-lockup/). We do such things in publishing, right?
 
+If you don’t get `<text>` and `<tspan>`, check [Multiline SVG Text at O’Reilly’s Safari](https://www.safaribooksonline.com/library/view/svg-text-layout/9781491933817/ch04.html).
+
 ## What?
 
 Le shit you can do is up to you.
