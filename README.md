@@ -34,6 +34,8 @@ This is a super simple boilerplate, a grid helper can be enabled/disabled (CSS�
 
 Don’t care if you’re using CSS or SVG attributes, just do it then do it better.
 
+Oh and by the way, don’t ask me how you right-align `text + tspan` in SVG, I have no freaking clue—it’s probably worse than vertical centering in CSS circa 2008.
+
 ## Examples
 
 ![Boilerplate with grid](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/boilerplate.png)
