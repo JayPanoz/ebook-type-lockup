@@ -44,6 +44,8 @@ Oh and by the way, don’t ask me how you right-align `text + tspan` in SVG, I h
 
 ![Part’s page](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/stars.png)
 
+![You only live once](https://github.com/JayPanoz/ebook-type-lockup/raw/master/assets/PNG/yolo.png)
+
 ## Licence
 
 MIT. Nuff’ said.
